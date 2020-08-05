@@ -8,3 +8,5 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/amiya-ranjan-sethi-618711165/">LinkedIn</a> <a href="https://www.behance.net/amiyarsethi1">Behance</a>
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love psychology
+
+### Connect with me
