@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I love psychology
 
 ### Connect with me:
- [<img align="left" alt="linkedin" width="22px" src="https://raw.githubercontent.com/iconic/open-iconic/master/LinkedIn.svg" />
+ [<img align="left" alt="linkedin" width="22px" src="https://raw.githubercontent.com/iconic/open-iconic/master/linkedin.svg" />]
